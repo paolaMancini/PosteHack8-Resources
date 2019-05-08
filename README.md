@@ -10,7 +10,7 @@ We have created the following resources for you to quickly get started:
  
  
  ## Instructions to setup your environment:   
-	Complete the lab: https://developer.cisco.com/learning/tracks/devnet-workshop-webex-appdev/devnet-express-collab-setup-sd/collab-dne-event-setup-sd/step/1
+**Complete the lab: (https://developer.cisco.com/learning/tracks/devnet-workshop-webex-appdev/devnet-express-collab-setup-sd/collab-dne-event-setup-sd/step/1)**
 
 ### Cisco Spark Bots
 You can also create Spark Bots to automate routine tasks and inject contextual content into groups, meetings and conversations. 
