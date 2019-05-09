@@ -4,8 +4,8 @@
 - Register your email on Webex Teams  https://teams.webex.com/signin
 - [Optional] install Webex Teams App on your laptop or Mobile : https://www.ciscospark.com/downloads.html
 
-- Join the Cisco Webex Teams Space for sharing Docs and chat with Mentors
-**<a href="img/QRcode_WxTeams_MentorSpace.png" target="_blank">Join the Webex Teams Space</a>**
+- Join the Cisco Webex Teams Space for sharing Docs and chat with Mentors 
+ ![](img/wQRcode_WxTeams_MentorSpace.png)
   
  
 
