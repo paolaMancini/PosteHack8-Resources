@@ -5,8 +5,9 @@
 - [Optional] install Webex Teams App on your laptop or Mobile : https://www.ciscospark.com/downloads.html
 
 - Join the Cisco Webex Teams Space for sharing Docs and chat with Mentors
+**<a href="img/wQRcode_WxTeams_MentorSpace.png" target="_blank">Join the Webex Teams Space</a>**
   
-- [Optional] install Webex Teams App on your laptop or Mobile : https://www.webex.com/downloads.html
+ 
 
 
 ### Cisco Spark API Starter Guide
