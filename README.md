@@ -1,4 +1,22 @@
 # Hackathon Poste (Rome, May 17th, 19th)
+
+## How to get support ?
+- Register your email on Webex Teams  https://teams.webex.com/signin
+- [Optional] install Webex Teams App on your laptop or Mobile : https://www.ciscospark.com/downloads.html
+
+- Join the Cisco Webex Teams Space for sharing Docs and chat with Mentors
+  
+- [Optional] install Webex Teams App on your laptop or Mobile : https://www.webex.com/downloads.html
+
+
+### Cisco Spark API Starter Guide
+
+- Signin at https://developer.ciscospark.com with your Spark account credentials (same as the ones above) 
+- Take the Rooms learning lab at DevNet - Cisco Developer Network: https://developer.ciscospark.com/samples-tutorials.html
+- Experiment some Cisco Spark bots written in nodejs: https://github.com/ObjectIsAdvantag/sparkbot-webhook-samples
+- POSTMAN collection for Cisco Spark API: https://bit.ly/POSTMAN-SPARK-API  
+- Look for other Spark resources in various languages : https://github.com/CiscoDevNet/awesome-ciscospark
+
 ## Contents
 We have created the following resources for you to quickly get started:
  - [Sign in Cisco Webex teams, Webex Dev Portal and Cisco DevNet](#wxteams-wxdev-devenet)
@@ -10,7 +28,8 @@ We have created the following resources for you to quickly get started:
  
  
  ## Instructions to setup your environment:   
-**Complete the lab: (https://developer.cisco.com/learning/tracks/devnet-workshop-webex-appdev/devnet-express-collab-setup-sd/collab-dne-event-setup-sd/step/1)**
+	
+	**Complete the lab: (https://developer.cisco.com/learning/tracks/devnet-workshop-webex-appdev/devnet-express-collab-setup-sd/collab-dne-event-setup-sd/step/1)**
 
 ### Cisco Spark Bots
 You can also create Spark Bots to automate routine tasks and inject contextual content into groups, meetings and conversations. 
@@ -41,5 +60,4 @@ You can also create Spark Bots to automate routine tasks and inject contextual c
 
 Learning lab: “Embedding Video into existing applications” 
 https://developer.cisco.com/learning/tracks/collab-cloud/creating-spark-integrations-sd/collab-spark-video-widget-meet/step/1 
-
 
