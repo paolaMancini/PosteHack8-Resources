@@ -9,20 +9,6 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8. You'll find
 **For getting support**
 - Join the Cisco Webex Teams Space for sharing Docs, enter your email and start chatting with Mentors: (https://eurl.io/#rkjotUehV)
  ![](img/QRcode_WxTeams_MentorSpace.png)
- 
-- Webex Teams API support is freely accessible 24/24, 7/7, via [email and #webex4devs room](https://dev-preview.webex.com/support.html)
- 
-# Hackathon Poste (Rome, May 17th-19th)
-
-Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8. You'll find hereafter developer resources to quickly get started with Cisco technologies and APIs:
- 
-- Sign up for [Cisco Webex](https://www.webex.com/) and reach to [Cisco Webex Teams Web client](https://teams.webex.com/signin)
-- [optional] [Install a Webex Teams client](https://www.ciscospark.com/downloads.html) on your laptop and/or mobile phone, and get instant access from all your devices
-- Sign in at [Webex for Developers](https://developer.webex.com) with your Webex Teams account credentials (same as the ones above). This is where you'll get your API access token.
- 
-**For getting support**
-- Join the Cisco Webex Teams Space for sharing Docs, enter your email and start chatting with Mentors: (https://eurl.io/#rkjotUehV)
- ![](img/QRcode_WxTeams_MentorSpace.png)
  - Webex Teams API support is freely accessible 24/24, 7/7, via [email and #webex4devs room](https://dev-preview.webex.com/support.html)
  
 ## Cisco Spark Starter Kit
