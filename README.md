@@ -14,6 +14,7 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8. You'll find
 ## Cisco Spark Starter Kit
 
 **Background info: Cisco Webex Teams free plan gives you Chating, Audio & Video calls to other Webex Teams users, and meetings with up to 3 members (Chat, Video, Shared-board)**
+![](img/webex-teams-intro.png)
 
 - Signin at https://developer.webex.com with your Webex Teams account credentials (same as the ones above)
 - Take the  [Cisco Webex Teams Learning Track](https://learninglabs.cisco.com/tracks/collab-cloud) to learn to automate Cisco Webex Teams and create Cisco Webex Teams Applications (bots, OAUTH integrations).
