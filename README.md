@@ -10,7 +10,7 @@
  
 **For getting support**
 - Join the Cisco Webex Teams Space for sharing Docs and chat with Mentors: https://eurl.io/#rkjotUehV
- ![](img/wQRcode_WxTeams_MentorSpace.png)
+ ![](img/QRcode_WxTeams_MentorSpace.png)
 -
 
 ### Cisco Webex Teams API Starter Guide
