@@ -27,13 +27,10 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8. You'll find
 **For preparing your environment**
 - Follow the instructions and Complete the lab: https://developer.cisco.com/learning/tracks/devnet-workshop-webex-appdev/devnet-express-collab-setup-sd/collab-dne-event-setup-sd/step/1
  
- 
- 
- 
-### Creating Chat Bots
 
-Don't miss the existing [Cisco Spark Starter Kits](https://ciscowebexteamsambassadors.github.io/StarterKits/) to quickly create chat bots. 
-- Do it yourself by [experimenting a Cisco Webex Teams bot](https://developer.webex.com/docs/bots) and [get inspired from several BotKit samples](https://github.com/CiscoDevNet/botkit-webex-samples) in nodeJS.
+## Creating Chat Bots
+- Take the [Create Cisco Webex Teams bots](https://developer.webex.com/docs/bots) tutorial and [get inspired from several BotKit samples](https://github.com/CiscoDevNet/botkit-webex-samples) in nodeJS
+-Don't miss the existing [Cisco Spark Starter Kits](https://ciscowebexteamsambassadors.github.io/StarterKits/) to quickly create chat bots.
  
 ### Embedding Video Calls
 ![](docs/img/spark-widget.png)
