@@ -2,7 +2,7 @@
 
 ## Cisco Webex Teams Starter Kit
 
-**Cisco Webex Teams trial plan gives you free Chating, Audio & Video calls to other Webex Teams users, and meetings with up to 3 members (Chat, Video, Shared-board), 
+**Cisco Webex Teams trial plan gives you free Chating, Audio & Video calls to other Webex Teams users, and meetings with up to 3 members (Chat, Video, Shared-board)**
  
 - Sign up for [Cisco Webex](https://www.webex.com/) and reach to [Cisco Webex Teams Web client](https://teams.webex.com/signin)
 - [optional] [Install a Webex Teams client](https://www.ciscospark.com/downloads.html) on your laptop and/or mobile phone, and get instant access from all your devices
