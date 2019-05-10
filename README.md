@@ -29,8 +29,8 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8. You'll find
  
 
 ## Creating Chat Bots
-- Take the [Create Cisco Webex Teams bots](https://developer.webex.com/docs/bots) tutorial and [get inspired from several BotKit samples](https://github.com/CiscoDevNet/botkit-webex-samples) in nodeJS.
--Don't miss the existing [Cisco Spark Starter Kits](https://ciscowebexteamsambassadors.github.io/StarterKits/) to quickly create chat bots.
+- Take the [Create Cisco Webex Teams bots](https://developer.webex.com/docs/bots) tutorial and [get inspired from several BotKit samples](https://github.com/CiscoDevNet/botkit-webex-samples) in nodeJS
+- Don't miss the existing [Cisco Webex Teams Starter Kits](https://ciscowebexteamsambassadors.github.io/StarterKits/) to quickly create chat bots.
  
 ### Embedding Video Calls
 ![](docs/img/spark-widget.png)
