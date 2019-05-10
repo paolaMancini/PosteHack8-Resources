@@ -8,7 +8,7 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8. You'll find
  
 **For getting support**
 - Join the Cisco Webex Teams Space for sharing Docs, enter your email and start chatting with Mentors: https://eurl.io/#rkjotUehV
- ![](img/wQRcode_WxTeams_MentorSpace.png)
+ ![](img/QRcode_WxTeams_MentorSpace.png)
 - Webex Teams API support is freely accessible 24/24, 7/7, via [email and #webex4devs room](https://dev-preview.webex.com/support.html)
 
 
