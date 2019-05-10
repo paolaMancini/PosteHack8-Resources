@@ -25,7 +25,7 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8. You'll find
  
  
 **For preparing your environment**
-- Follow the instructions and Complete the lab:https://developer.cisco.com/learning/tracks/devnet-workshop-webex-appdev/devnet-express-collab-setup-sd/collab-dne-event-setup-sd/step/1
+- Follow the instructions and Complete the lab: https://developer.cisco.com/learning/tracks/devnet-workshop-webex-appdev/devnet-express-collab-setup-sd/collab-dne-event-setup-sd/step/1
  
  
 ### Creating Chat Bots
