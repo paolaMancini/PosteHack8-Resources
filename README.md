@@ -1,7 +1,5 @@
 # Hackathon Poste (Rome, May 17th-19th)
 
-# Hackathon Poste (Rome, May 17th-19th)
-
 Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8. You'll find hereafter developer resources to quickly get started with Cisco technologies and APIs:
  
 - Sign up for [Cisco Webex](https://www.webex.com/) and reach to [Cisco Webex Teams Web client](https://teams.webex.com/signin)
