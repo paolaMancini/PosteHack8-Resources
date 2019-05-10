@@ -20,7 +20,6 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8. You'll find
 
 **Few learning resources**
 - Leverage POSTMAN collection for Cisco Webex Teams API: http://bit.ly/postman-webex 
-- Check these learning labs for step-by-step tutorials [Cisco Spark Learning Track](https://learninglabs.cisco.com/tracks/collab-cloud) to learn to create Cisco Spark Bots and OAuth integrations.
 - Experiment some Cisco Webex Teams bots written in nodejs: https://github.com/CiscoDevNet/node-sparkbot-samples
 - Look for other Webex Teams resources in various languages: https://github.com/CiscoDevNet/awesome-webex to get code samples and SDKs in various programming languages
  
