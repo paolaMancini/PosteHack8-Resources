@@ -36,15 +36,12 @@ Don't miss the existing [Cisco Spark Starter Kits](https://ciscosparkambassadors
  
 ### Embedding Video Calls
 ![](docs/img/spark-widget.png)
-
 **[Check the widget code samples](https://github.com/CiscoDevNet/widget-samples): paste your Cisco Spark access token and the ready-to-use widget samples**
 [Spark Widgets](https://developer.ciscospark.com/widgets.html): Integrate Spark functionality into your existing web apps with Widgets written in React
 - Space Widget: Calling (Audio and video 1:1 calling) and Messaging (Space and 1:1 messaging, Markdown support, File sharing, Message flags and ability to delete messages, Read receipts, Persistent chat),
 - Recents Widget: Recent Spark conversation list (spaces & people), Hooks to open a conversation with the Space Widget, Unread space highlighting, Event hooks for messages, calls, and memberships, Incoming call notifications
 
 **[Take the Space Widget quick start](https://developer.cisco.com/site/spark)**
-
-
 ![](docs/img/spark-sdks.png)
 
 [Spark SDK for JS](https://developer.ciscospark.com/sdk-for-javascript.html): Integrate Cisco Spark calling into your JavaScript applications. Place and receive video calls via the SDK: 
