@@ -1,20 +1,17 @@
-# Hackathon Poste (Rome, May 17th,18th,19th)
+# Hackathon Poste (Rome, May 17th-19th)
 
-## How to get support ?
-- Register your email on Webex Teams  https://teams.webex.com/signin
-- [Optional] install Webex Teams App on your laptop or Mobile : https://www.ciscospark.com/downloads.html
+## Cisco Webex Teams Starter Kit
 
-- Join the Cisco Webex Teams Space for sharing Docs and chat with Mentors 
-
-
- ![](img/QRcode_WxTeams_MentorSpace.png)
-  
-## Sign in Webex teams, Webex Dev Portal and Cisco DevNet 
-We have created the following resources for you to quickly get started:
- - [Sign in Cisco Webex teams, Webex Dev Portal and Cisco DevNet](#wxteams-wxdev-devenet)
- - [Instructions to setup your environment](#setup-environment)
- - [Cisco Spark Starter Kit](#cisco-spark-starter-kit)
-
+**Cisco Webex Teams trial plan gives you free Chating, Audio & Video calls to other Webex Teams users, and meetings with up to 3 members (Chat, Video, Shared-board), 
+ 
+- Sign up for [Cisco Webex](https://www.webex.com/) and reach to [Cisco Webex Teams Web client](https://teams.webex.com/signin)
+- [optional] [Install a Webex Teams client](https://www.ciscospark.com/downloads.html) on your laptop and/or mobile phone, and get instant access from all your devices
+- Sign in at [Webex for Developers](https://developer.webex.com) with your Webex Teams account credentials (same as the ones above). This is where you'll get your API access token.
+ 
+**For getting support**
+- Join the Cisco Webex Teams Space for sharing Docs and chat with Mentors: https://eurl.io/#rkjotUehV
+ ![](img/wQRcode_WxTeams_MentorSpace.png)
+-
 
 ### Cisco Webex Teams API Starter Guide
 - Signin at https://developer.ciscospark.com with your Spark account credentials (same as the ones above) 
