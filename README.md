@@ -11,7 +11,7 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8, a curated l
  ![](img/QRcode_WxTeams_MentorSpace.png)
  - Webex Teams API support is freely accessible 24/24, 7/7, via [email and #webex4devs room](https://dev-preview.webex.com/support.html)
  
-## Cisco Spark Starter Kit
+## Cisco Webex Teams Starter Kit
 
 **Background info: Cisco Webex Teams free plan gives you Chating, Audio & Video calls to other Webex Teams users, and meetings with up to 3 members (Chat, Video, Shared-board)**
 ![](img/webex-teams-intro.png)
