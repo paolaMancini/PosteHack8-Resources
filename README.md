@@ -34,7 +34,7 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8, a curated l
 - Don't miss the existing [Cisco Webex Teams Starter Kits](https://ciscowebexteamsambassadors.github.io/StarterKits/) to quickly create chat bots.
  
 ### Embedding Video Calls
-![](docs/img/spark-widget.png)
+![](img/teams-widget.png)
 **[Check the widget code samples](https://github.com/CiscoDevNet/widget-samples): paste your Cisco Spark access token and the ready-to-use widget samples**
 [Spark Widgets](https://developer.ciscospark.com/widgets.html): Integrate Spark functionality into your existing web apps with Widgets written in React
 - Space Widget: Calling (Audio and video 1:1 calling) and Messaging (Space and 1:1 messaging, Markdown support, File sharing, Message flags and ability to delete messages, Read receipts, Persistent chat),
