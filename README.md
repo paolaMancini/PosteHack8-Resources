@@ -81,5 +81,7 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8, a curated l
 - Message securely
 - Group call with multistream view
 
+
 **Webex Teams SDK Fetaures Comparison**
+
 ![](img/teams-features-comparison.png)
