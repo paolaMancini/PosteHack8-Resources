@@ -33,30 +33,50 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8, a curated l
 - Take the [Create Cisco Webex Teams bots](https://developer.webex.com/docs/bots) tutorial and [get inspired from several BotKit samples](https://github.com/CiscoDevNet/botkit-webex-samples) in nodeJS
 - Don't miss the existing [Cisco Webex Teams Starter Kits](https://ciscowebexteamsambassadors.github.io/StarterKits/) to quickly create chat bots.
  
+ 
 ## Embedding Video Calls
 ![](img/teams-widget.png)
 
-**[Check the widget code samples](https://github.com/CiscoDevNet/widget-samples): paste your Cisco Spark access token and the ready-to-use widget samples**
-[Spark Widgets](https://developer.ciscospark.com/widgets.html): Integrate Spark functionality into your existing web apps with Widgets written in React
+**[Check the widget code samples](https://github.com/CiscoDevNet/widget-samples): paste your Cisco Webex Teams  access token and the ready-to-use widget samples**
+[Webex Teams  Widgets](https://developer.ciscospark.com/widgets.html): Integrate Webex Teams functionality into your existing web apps with Widgets written in React
 - Space Widget: Calling (Audio and video 1:1 calling) and Messaging (Space and 1:1 messaging, Markdown support, File sharing, Message flags and ability to delete messages, Read receipts, Persistent chat),
-- Recents Widget: Recent Spark conversation list (spaces & people), Hooks to open a conversation with the Space Widget, Unread space highlighting, Event hooks for messages, calls, and memberships, Incoming call notifications
+- Recents Widget: Recent Webex Teams  conversation list (spaces & people), Hooks to open a conversation with the Space Widget, Unread space highlighting, Event hooks for messages, calls, and memberships, Incoming call notifications
 
-**[Take the Space Widget quick start](https://developer.cisco.com/site/spark)**
+**[Take the Space Widget quick start](https://developer.webex.com/docs/widgets**
 ![](docs/img/spark-sdks.png)
 
-[Spark SDK for JS](https://developer.ciscospark.com/sdk-for-javascript.html): Integrate Cisco Spark calling into your JavaScript applications. Place and receive video calls via the SDK: 
+[Webex Teams SDK for Browser](https://developer.webex.com/docs/sdks/browser): Integrate Cisco Webex Teams  calling into your JavaScript applications. Place and receive video calls via the SDK: 
 - Audio/Video calls (Group and 1-1)
 - Dial by email or SIP address
-- Call and event controls, including DTMF
+- Call and event controls 
+- Maximum bandwidth controls new
+- View shared content
+- Share screen and application from Firefox 
 - Supported on Chrome and Firefox latest versions
-
-[Spark SDK for iOS](https://developer.ciscospark.com/sdk-for-ios.html): Integrate Cisco Spark calling into your iOS apps. Place and receive Spark video calls: 
+ 
+[Webex Teams  SDK for iOS](https://developer.webex.com/docs/sdks/ios): Integrate Cisco Webex Teams  calling into your iOS apps. Place and receive Webex Teams  video calls: 
 - Audio/Video calls (Group and 1-1)
-- Dial by email or SIP address
+- Group space calling
+- Dial by email, Webex Teams User ID, or SIP address
 - Call and event controls, including DTMF
+- Audio and video call control
+- View content and video simultaneously
+- iOS 11 support
+- Maximum bandwidth controls
+- Receive and share content
+- Message securely
+- Group call with multistream view 
 
-[Spark SDK for Android](https://developer.ciscospark.com/sdk-for-android.html): Integrate Cisco Spark calling into your Android apps. Place and receive Spark video calls: 
-- Audio/Video calls (1-1 only)
-- Dial by email or SIP address
+[Webex Teams  SDK for Android](https://developer.ciscospark.com/sdk-for-android.html): Integrate Cisco Webex Teams  calling into your Android apps. Place and receive Webex Teams  video calls: 
+- Audio and/or video 1:1 calling
+- Group space calling
+- Dial by email, Webex Teams User ID, or SIP address
 - Call and event controls, including DTMF
 - Supported on Chrome and Firefox latest versions
+- Audio and video call control
+- View content and video simultaneously
+- Maximum bandwidth controls
+- Create Teams, Spaces, Memberships, and Messages
+- Receive and share content
+- Message securely
+- Group call with multistream view new
