@@ -45,7 +45,7 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8, a curated l
 **[Take the Space Widget quick start](https://developer.webex.com/docs/widgets**
 ![](docs/img/spark-sdks.png)
 
-[Webex Teams SDK for Browser](https://developer.webex.com/docs/sdks/browser): Integrate Cisco Webex Teams  calling into your JavaScript applications. Place and receive video calls via the SDK: 
+[Webex Teams SDK for Browser](https://developer.webex.com/docs/sdks/browser): Integrate Cisco Webex Teams calling into your JavaScript applications. Place and receive video calls via the SDK: 
 - Audio/Video calls (Group and 1-1)
 - Dial by email or SIP address
 - Call and event controls 
@@ -80,3 +80,5 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8, a curated l
 - Receive and share content
 - Message securely
 - Group call with multistream view new
+
+![](img/teams-features-comparison.png)
