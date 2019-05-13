@@ -79,6 +79,6 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8, a curated l
 - Create Teams, Spaces, Memberships, and Messages
 - Receive and share content
 - Message securely
-- Group call with multistream view new
+- Group call with multistream view
 
 ![](img/teams-features-comparison.png)
