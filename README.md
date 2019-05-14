@@ -10,6 +10,8 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8, a curated l
 - Join the Cisco Webex Teams Space for sharing Docs, enter your email and start chatting with Mentors: (https://eurl.io/#rkjotUehV)
  ![](img/QRcode_WxTeams_MentorSpace.png)
  - Webex Teams API support is freely accessible 24/24, 7/7, via [email and #webex4devs room](https://dev-preview.webex.com/support.html)
+
+
  
 ## Cisco Webex Teams Starter Kit
 
@@ -24,14 +26,15 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8, a curated l
 - Experiment some Cisco Webex Teams bots written in nodejs: https://github.com/CiscoDevNet/node-sparkbot-samples
 - Look for other Webex Teams resources in various languages: https://github.com/CiscoDevNet/awesome-webex to get code samples and SDKs in various programming languages
  
- 
 **For preparing your environment**
 - Follow the instructions and Complete the lab: https://developer.cisco.com/learning/tracks/devnet-workshop-webex-appdev/devnet-express-collab-setup-sd/collab-dne-event-setup-sd/step/1
  
 
+
 ## Creating Chat Bots
 - Take the [Create Cisco Webex Teams bots](https://developer.webex.com/docs/bots) tutorial and [get inspired from several BotKit samples](https://github.com/CiscoDevNet/botkit-webex-samples) in nodeJS
 - Don't miss the existing [Cisco Webex Teams Starter Kits](https://ciscowebexteamsambassadors.github.io/StarterKits/) to quickly create chat bots.
+ 
  
  
 ## Embedding Video Calls
