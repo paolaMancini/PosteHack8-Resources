@@ -42,7 +42,7 @@ Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8, a curated l
 - Space Widget: Calling (Audio and video 1:1 calling) and Messaging (Space and 1:1 messaging, Markdown support, File sharing, Message flags and ability to delete messages, Read receipts, Persistent chat),
 - Recents Widget: Recent Webex Teams  conversation list (spaces & people), Hooks to open a conversation with the Space Widget, Unread space highlighting, Event hooks for messages, calls, and memberships, Incoming call notifications
 
-**[Take the Space Widget quick start](https://developer.webex.com/docs/widgets**
+**[Take the Space Widget quick start](https://developer.webex.com/docs/widgets)**
 ![](docs/img/spark-sdks.png)
 
 [Webex Teams SDK for Browser](https://developer.webex.com/docs/sdks/browser): Integrate Cisco Webex Teams calling into your JavaScript applications. Place and receive video calls via the SDK: 
