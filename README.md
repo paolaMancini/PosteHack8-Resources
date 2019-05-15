@@ -1,6 +1,8 @@
 # Hackathon Poste (Rome, May 17th-19th)
 
 Welcome to the Cisco Technical Resources repo for Poste Hackhaton 8, a curated list of developer resources to quickly get started with Cisco technologies and APIs:
+
+- **Register [Cisco DevNet](https://developer.cisco.com) with your preferred account**
  
 - Sign up for [Cisco Webex](https://www.webex.com/) and reach to [Cisco Webex Teams Web client](https://teams.webex.com/signin)
 - [optional] [Install a Webex Teams client](https://www.ciscospark.com/downloads.html) on your laptop and/or mobile phone, and get instant access from all your devices
